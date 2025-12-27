@@ -1,0 +1,2 @@
+# simpel-ddos
+Full power 
